@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "node": "^18.20.2",
+    "uniqid": "^5.4.0"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "idex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

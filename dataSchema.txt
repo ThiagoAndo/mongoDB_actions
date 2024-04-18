@@ -1,0 +1,34 @@
+
+productRequests{id:12}
+
+User Comment ============================
+{
+  id: '4jgm2z11c6glv5e8g3d',
+  image: './assets/user-images/image-victoria.jpg',
+  name: 'Victoria Mejia',
+  username: 'arlen_the_marlin'
+}
+==========================================
+Comment ============================
+{
+  id: 15,
+  productRequests_id: 12,
+  user_id: '4jgm2z11c6glv5e8g3d',
+  content: "I'd love to see this! It always makes me so happy to see little details like these on websites."
+}
+==========================================
+User replies ============================
+{
+  id: '4jgm2z11c6glv5e8g3h',
+  image: './assets/user-images/image-suzanne.jpg',
+  name: 'Suzanne Chang',
+  username: 'upbeat1811'
+}
+==========================================
+replies ============================
+{
+  content: "Me too! I'd also love to see celebrations at specific points as well. It would help people take a moment to celebrate their achievements!",
+  replyingTo: 'arlen_the_marlin',
+  user_id: '4jgm2z11c6glv5e8g3h'
+}
+==========================================
