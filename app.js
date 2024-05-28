@@ -73,7 +73,7 @@ data.productRequests.forEach((request) => {
         insertDocument(
           {
             productRequests_id: request.id,
-            usernam: comment.user.username,
+            username: comment.user.username,
             id: comment.id,
             content: comment.content,
           },
